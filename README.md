@@ -13,7 +13,7 @@
 ## Overview
 
 ```bash
- ./install.sh
+ ./build.sh
 ```
 
 ## License
