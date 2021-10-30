@@ -2,7 +2,7 @@
 
 > touchbar-based NFT farming
 
-![](./github/img1.png)
+![](https://raw.githubusercontent.com/sambacha/sushiswap-touchbar/master/.github/img1.png)
 
 ## Requirements
 
@@ -15,6 +15,10 @@
 ```bash
  ./build.sh
 ```
+
+### How it works
+
+T.B.D (just emojis for now. sry)
 
 ## License
 
